@@ -2,7 +2,7 @@
 #Date: 11/26/2018
 #Description:
     #This portion of the TCP client/server program is responsible for sending TCP messages
-    #and receiving the response from the server. Since the basic function that the server computes is to
+    #and receiving the response from the server. Since the basic function that the server performs is to
     #compute postfix operations, we send messages like so:
         #Example message that is sent => 1428+*+
     #This is equal to 1+(4*(2+8)), so the expected response from the server would be 41
